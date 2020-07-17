@@ -1,0 +1,65 @@
+body,
+html{
+	background-color: black;
+	font-family: 'monsterrat';
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.navbar-light{
+	background-color: black;
+}
+i{
+	color: rgb(255,200,0);
+	border: double;
+	
+
+}
+.spans{
+	color: rgb(255,200,0);
+	padding-left: 100px;
+	font-size: 30px;
+}
+.user{
+
+	color: rgb(255,200,0);
+	padding-left: 800px;
+	padding-top: 20px;
+	font-size: 30px;
+
+}
+.signin{
+
+	padding-left: 200px;
+	padding-top: 100px;
+}
+.input{
+	width: 600px;
+}
+
+.btn-default{
+	background-color: transparent;
+	color: white;
+	position: fixed;
+	left:900px;
+}
+.fonts{
+	color: white;
+	font-size: 50px;
+	font-family: monospace;
+	position: fixed;
+	left:300px;
+
+}
+.create{
+	background-color: transparent;
+	color: white;
+	font-family: monospace;
+	font-size: 10px;
+}
+.position{
+	position: fixed;
+	left:500px;
+	bottom: 20px;
+}
